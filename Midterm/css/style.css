@@ -1,0 +1,49 @@
+body {
+  background-color:#ffffff;
+  margin: 0;
+}
+
+h1 {
+  color: #000000;
+  text-align: center;
+
+}
+
+h3 {
+  text-align: center;
+}
+
+img {
+  width: 100vw;
+  height: auto;
+  margin: 0;
+
+}
+
+p {
+  padding:10px;
+  text-align: center;
+}
+
+a {
+  color: #ffffff;
+}
+
+
+
+.header {
+  background-color:#f4f4f4;
+
+}
+
+.title-bar {
+  background-color: #f4f4f4;
+  span-color: #ffffff;
+}
+
+.callout {
+  border: 1px solid #000000;
+  background-color: #000000;
+  text-decoration: #ffffff;
+  padding: 20px;
+}
