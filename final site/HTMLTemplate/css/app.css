@@ -1,0 +1,117 @@
+
+body {
+
+}
+
+h1 {
+  font-family: "Playfair Display", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: bold;
+}
+
+
+p {
+  font-family: "Playfair Display", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: bold;
+
+}
+
+h4 {
+	font-family: "Playfair Display", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: bold;
+}
+
+.banner-img {
+  width: 100%;     /* full width of page */
+  height: 200px;   /* controls height */
+  object-fit: cover; /* crops nicely instead of stretching */
+}
+
+
+.navStyle {
+	background-color: #16195d;
+	color: #fff;
+	height: 50px;
+	padding: 12px;
+	text-align: center;
+}
+.navStyle a {
+	color: #f4f4f4;
+	text-decoration: none;
+}
+.navStyle a:hover {
+	color: #009cff;
+}
+.navItem {
+	margin: 0 25px 0 25px;
+	font-family: "Playfair Display", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: bold;
+}
+}
+.bodyCopy {
+	padding: 50px 0 0 0;
+}
+.footerStyle {
+	background-color: #06495C;
+	color: #fff;
+	padding: 12px;
+	height: 50px;
+	text-align: center;
+	margin-top: 50px;
+}
+.rtt {
+	text-align: center;
+	margin-top: 50px;
+	color: #16195d;
+}
+.rtt a {
+	color: #06495C;
+	text-decoration: none;
+	font-weight: bold;
+}
+.rtt a:hover {
+	color: #09639c;
+}
+
+.article-container {
+  max-width: 700px;   
+  margin: 0 auto;
+  padding: 20px;      
+  line-height: 1.6;   
+  font-size: 18px;
+}
+
+.quote-box {
+  background-color: #f2f2f2;  /* light grey */
+  padding: 20px;
+  margin: 20px 0;
+  border-left: 5px solid #ccc; /* optional nice accent line */
+  font-style: italic;
+}
+
+figcaption {
+  padding: 0px 0px 20px 0px;
+  font-size: 10px;
+  font-family:"Playfair Display", sans-serif; ;
+}
+
+.float-img {
+  padding: 30px 0px 0px 0px;
+}
+
+h1 {
+  text-align: center;
+  font-size: 42px;
+  margin-bottom: 10px;
+}
+
+p {
+  margin-bottom: 16px;
+}
